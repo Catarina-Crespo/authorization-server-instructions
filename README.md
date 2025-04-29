@@ -1,6 +1,6 @@
 # Authorization Server Instructions
 
-This README file specifies the instructions for using the oauth server.
+This README file specifies the instructions for using the OAuth server (deployed at https://oauth-server-zosn.onrender.com/)
 
 ## Step 1: Register the Client Application
 
